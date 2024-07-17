@@ -1,0 +1,15 @@
+2024-07-17 21:05:15,615:INFO:Data directory data created.
+2024-07-17 21:05:31,961:INFO:Philosopher 2 scraped https://www.nature.com successfully.
+2024-07-17 21:05:33,481:ERROR:Philosopher 1 HTTP error: 403
+2024-07-17 21:05:36,652:INFO:No articles found on the page.
+2024-07-17 21:05:36,653:INFO:Philosopher 0 scraped https://www.jstor.org successfully.
+2024-07-17 21:05:40,563:INFO:Philosopher 4 scraped https://www.frontiersin.org successfully.
+2024-07-17 21:05:41,778:ERROR:Philosopher 3 HTTP error: 403
+2024-07-17 21:06:00,189:INFO:Philosopher 2 scraped https://www.nature.com successfully.
+2024-07-17 21:06:01,033:ERROR:Philosopher 1 HTTP error: 403
+2024-07-17 21:06:03,212:INFO:No articles found on the page.
+2024-07-17 21:06:03,213:INFO:Philosopher 0 scraped https://www.jstor.org successfully.
+2024-07-17 21:06:06,981:INFO:Philosopher 5 scraped https://www.geeksforgeeks.org/dining-philosopher-problem-using-semaphores/ successfully.
+2024-07-17 21:06:32,183:INFO:Philosopher 4 scraped https://www.frontiersin.org successfully.
+2024-07-17 21:06:34,113:ERROR:Philosopher 3 HTTP error: 403
+2024-07-17 21:06:36,874:INFO:Philosopher 5 scraped https://www.geeksforgeeks.org/dining-philosopher-problem-using-semaphores/ successfully.
